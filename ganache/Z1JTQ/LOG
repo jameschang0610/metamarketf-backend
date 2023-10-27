@@ -1,0 +1,38 @@
+2023/10/26-21:35:12.743 3b48 Creating DB C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\nkbihfbeogaeaoehlefnkodbefgpgknn since it was missing.
+2023/10/26-21:35:12.800 3b48 Reusing MANIFEST C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\nkbihfbeogaeaoehlefnkodbefgpgknn/MANIFEST-000001
+2023/10/26-21:38:00.146 69fc Level-0 table #5: started
+2023/10/26-21:38:00.193 69fc Level-0 table #5: 2212420 bytes OK
+2023/10/26-21:38:00.199 69fc Delete type=0 #3
+2023/10/26-21:38:26.071 392c Level-0 table #7: started
+2023/10/26-21:38:26.111 392c Level-0 table #7: 2212569 bytes OK
+2023/10/26-21:38:26.117 392c Delete type=0 #4
+2023/10/26-21:38:52.798 41d8 Level-0 table #9: started
+2023/10/26-21:38:52.852 41d8 Level-0 table #9: 2213513 bytes OK
+2023/10/26-21:38:52.858 41d8 Delete type=0 #6
+2023/10/26-21:39:31.216 4898 Level-0 table #11: started
+2023/10/26-21:39:31.267 4898 Level-0 table #11: 2213693 bytes OK
+2023/10/26-21:39:31.276 4898 Delete type=0 #8
+2023/10/26-21:40:12.908 4898 Level-0 table #13: started
+2023/10/26-21:40:12.947 4898 Level-0 table #13: 2213762 bytes OK
+2023/10/26-21:40:12.953 4898 Delete type=0 #10
+2023/10/26-21:40:20.159 4378 Level-0 table #15: started
+2023/10/26-21:40:20.201 4378 Level-0 table #15: 2213953 bytes OK
+2023/10/26-21:40:20.207 4378 Delete type=0 #12
+2023/10/26-21:40:20.209 4378 Compacting 4@0 + 1@1 files
+2023/10/26-21:40:20.287 4378 Generated table #16@0: 1 keys, 738255 bytes
+2023/10/26-21:40:20.287 4378 Compacted 4@0 + 1@1 files => 738255 bytes
+2023/10/26-21:40:20.293 4378 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/26-21:40:20.369 4378 Delete type=2 #7
+2023/10/26-21:40:20.370 4378 Delete type=2 #9
+2023/10/26-21:40:20.370 4378 Delete type=2 #11
+2023/10/26-21:40:20.370 4378 Delete type=2 #13
+2023/10/26-21:40:20.370 4378 Delete type=2 #15
+2023/10/26-21:41:38.528 8f4 Level-0 table #18: started
+2023/10/26-21:41:38.582 8f4 Level-0 table #18: 2213149 bytes OK
+2023/10/26-21:41:38.589 8f4 Delete type=0 #14
+2023/10/26-21:42:10.668 1db4 Level-0 table #20: started
+2023/10/26-21:42:10.704 1db4 Level-0 table #20: 2213465 bytes OK
+2023/10/26-21:42:10.709 1db4 Delete type=0 #17
+2023/10/26-21:42:22.770 1db4 Level-0 table #22: started
+2023/10/26-21:42:22.806 1db4 Level-0 table #22: 2213582 bytes OK
+2023/10/26-21:42:22.814 1db4 Delete type=0 #19
